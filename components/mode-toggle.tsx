@@ -63,7 +63,7 @@ export function ModeToggle() {
           <DropdownMenuItem onClick={() => setTheme("system")}>{translate("app.theme.system")}</DropdownMenuItem>
           <DropdownMenuSeparator />
           <DropdownMenuItem asChild>
-            <a href="https://discord.gg/discord-webhook-manager" target="_blank" rel="noopener noreferrer">
+            <a href="https://discord.gg/FHXdXAh4Hu" target="_blank" rel="noopener noreferrer">
               {translate("app.support")}
             </a>
           </DropdownMenuItem>
